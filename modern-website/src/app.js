@@ -1,9 +1,13 @@
 import React from 'react'
+import {Navbar, CTA} from './components'
 
 function App() {
   return (
-    <div>App</div>
+    <div>
+      <Navbar />
+      <CTA />
+    </div>
   )
 }
 
-export default App
+export default App;
