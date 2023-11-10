@@ -1,10 +1,10 @@
 import React from 'react';
 import './navbar.css';
 
-function Article() {
+function Navbar() {
   return (
-    <div>Article</div>
+    <div>Navbar</div>
   )
 }
 
-export default Article;
+export default Navbar;
