@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/Modern-UI-UX-Website/static/js/main.71e02dc7.js",
+    "main.css": "/Modern-UI-UX-Website/static/css/main.b9dfe6c0.css",
+    "main.js": "/Modern-UI-UX-Website/static/js/main.6c56b562.js",
+    "static/media/logo.svg": "/Modern-UI-UX-Website/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/Modern-UI-UX-Website/index.html",
-    "main.71e02dc7.js.map": "/Modern-UI-UX-Website/static/js/main.71e02dc7.js.map"
+    "main.b9dfe6c0.css.map": "/Modern-UI-UX-Website/static/css/main.b9dfe6c0.css.map",
+    "main.6c56b562.js.map": "/Modern-UI-UX-Website/static/js/main.6c56b562.js.map"
   },
   "entrypoints": [
-    "static/js/main.71e02dc7.js"
+    "static/css/main.b9dfe6c0.css",
+    "static/js/main.6c56b562.js"
   ]
 }
